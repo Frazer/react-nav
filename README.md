@@ -6,6 +6,8 @@ Everything important to this project can be seen in src/App.js src/Nav.js src/Pa
 
 I have included a production build that you can see here: https://frazer.github.io/react-nav/build/
 
+You can also see this ported over to MeteorReact here: https://github.com/Frazer/meteor-react-nav
+
 
 This was built with create-react-app.  Developed further from https://github.com/Frazer/meteor-react-nav , which originally was inspired by https://codepen.io/trey/post/tabbed-navigation-react
 
